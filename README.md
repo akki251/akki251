@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8553
-Fork on GitHub
-1875
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Akshansh Shrivastava</h1>
 <h3 align="center">Web Developer and UI/UX Designer</h3>
 
