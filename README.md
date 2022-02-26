@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Tour booking Web app**
 
-- 🌱 I’m currently learning **Express Node Bootstrap**
+- 🌱 I’m currently learning **Express Node MongoDB**
 
-- 👯 I’m looking to collaborate on **Node , Express and Bootstrap**
+- 👯 I’m looking to collaborate on **Node , Express and Bootstrap MongoDB Javascript**
 
-- 💬 Ask me about **Html, css , javascript Bootstrap Express**
+- 💬 Ask me about **Html,css,Javascript Bootstrap Express**
 
 - 📫 How to reach me **akshansh773@gmail.com**
 
