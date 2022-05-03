@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki251&label=Profile%20views&color=0e75b6&style=flat" alt="akki251" /> </p>
 
-- 🔭 I’m currently working on **Advance CSS and Sass**
+- 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Express Node MongoDB**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Node , Express and Bootstrap MongoDB Javascript**
 
