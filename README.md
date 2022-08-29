@@ -28,3 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akki251&show_icons=true&locale=en&layout=compact" alt="akki251" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akki251&" alt="akki251" /></p>
+
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/akshansh773)
