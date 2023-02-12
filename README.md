@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akki251&label=Profile%20views&color=0e75b6&style=flat" alt="akki251" /> </p>
 
-- 🔭 I’m currently working on **Next JS Projects**
+- 🔭 I’m currently working on **React Native Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Node , Express and Bootstrap MongoDB Javascript**
+- 👯 I’m looking to collaborate on **Node ,Express and Bootstrap MongoDB Javascript React**
 
 - 💬 Ask me about **Html,css,Javascript Bootstrap Express**
 
